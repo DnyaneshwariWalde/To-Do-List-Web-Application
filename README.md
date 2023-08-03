@@ -1,7 +1,5 @@
 # To-Do List Web Application
 
-![Todo List Preview](todo-list-preview.png)
-
 ## Description
 
 This is a simple To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add, complete, and delete tasks, as well as filter tasks based on their completion status. The application has a responsive design and works smoothly on both desktop and mobile devices.
@@ -17,9 +15,10 @@ This is a simple To-Do List web application built using HTML, CSS, and JavaScrip
 
 ## Preview
 
-![Todo List Preview](todo-list-preview.png)
+![Todo List Preview](![Screenshot (290)](https://github.com/DnyaneshwariWalde/To-Do-List-Web-Application/assets/120588435/c35757c0-dbbd-48d1-acf1-fe192bacc117)
+)
 
-You can see a live preview of the To-Do List application by visiting [here](link_to_your_live_website).
+You can see a live preview of the To-Do List application by visiting [here](https://dnyaneshwariwalde.github.io/To-Do-List-Web-Application/).
 
 ## How to Use
 
